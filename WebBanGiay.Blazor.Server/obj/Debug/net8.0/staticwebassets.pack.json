@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\READ-ME.txt"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\cart.html",
+      "PackagePath": "staticwebassets\\cart.html"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\checkout.html",
+      "PackagePath": "staticwebassets\\checkout.html"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\ecommerce-html-template.jpg",
+      "PackagePath": "staticwebassets\\ecommerce-html-template.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "PackagePath": "staticwebassets\\images\\Logo.svg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+      "PackagePath": "staticwebassets\\images\\SplashScreen.svg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\brand-1.png",
+      "PackagePath": "staticwebassets\\img\\brand-1.png"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\brand-2.png",
+      "PackagePath": "staticwebassets\\img\\brand-2.png"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\brand-3.png",
+      "PackagePath": "staticwebassets\\img\\brand-3.png"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\brand-4.png",
+      "PackagePath": "staticwebassets\\img\\brand-4.png"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\brand-5.png",
+      "PackagePath": "staticwebassets\\img\\brand-5.png"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\brand-6.png",
+      "PackagePath": "staticwebassets\\img\\brand-6.png"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\category-1.jpg",
+      "PackagePath": "staticwebassets\\img\\category-1.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\category-2.jpg",
+      "PackagePath": "staticwebassets\\img\\category-2.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\category-3.jpg",
+      "PackagePath": "staticwebassets\\img\\category-3.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\category-4.jpg",
+      "PackagePath": "staticwebassets\\img\\category-4.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\category-5.jpg",
+      "PackagePath": "staticwebassets\\img\\category-5.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\category-6.jpg",
+      "PackagePath": "staticwebassets\\img\\category-6.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\category-7.jpg",
+      "PackagePath": "staticwebassets\\img\\category-7.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\category-8.jpg",
+      "PackagePath": "staticwebassets\\img\\category-8.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\godaddy.svg",
+      "PackagePath": "staticwebassets\\img\\godaddy.svg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\norton.svg",
+      "PackagePath": "staticwebassets\\img\\norton.svg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\payment-method.png",
+      "PackagePath": "staticwebassets\\img\\payment-method.png"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\review-1.jpg",
+      "PackagePath": "staticwebassets\\img\\review-1.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\review-2.jpg",
+      "PackagePath": "staticwebassets\\img\\review-2.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\review-3.jpg",
+      "PackagePath": "staticwebassets\\img\\review-3.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\img\\slider-1.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\img\\slider-2.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\img\\slider-3.jpg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\img\\ssl.svg",
+      "PackagePath": "staticwebassets\\img\\ssl.svg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\lib\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\lib\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\lib\\slick\\config.rb"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\lib\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\lib\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\lib\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\lib\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\lib\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\lib\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\lib\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\lib\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\lib\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\lib\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\lib\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\lib\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\lib\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\lib\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\lib\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\lib\\slick\\slick.css"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\lib\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\lib\\slick\\slick.js"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\lib\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\lib\\slick\\slick.less"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\lib\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\lib\\slick\\slick.min.js"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\lib\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\lib\\slick\\slick.scss"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\my-account.html",
+      "PackagePath": "staticwebassets\\my-account.html"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\product-detail.html",
+      "PackagePath": "staticwebassets\\product-detail.html"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\product-list.html",
+      "PackagePath": "staticwebassets\\product-list.html"
+    },
+    {
+      "Id": "D:\\study\\cong nghe phan mem\\WebBanGiay\\WebBanGiay.Blazor.Server\\wwwroot\\wishlist.html",
+      "PackagePath": "staticwebassets\\wishlist.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebBanGiay.Blazor.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebBanGiay.Blazor.Server.props",
+      "PackagePath": "build\\WebBanGiay.Blazor.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebBanGiay.Blazor.Server.props",
+      "PackagePath": "buildMultiTargeting\\WebBanGiay.Blazor.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebBanGiay.Blazor.Server.props",
+      "PackagePath": "buildTransitive\\WebBanGiay.Blazor.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

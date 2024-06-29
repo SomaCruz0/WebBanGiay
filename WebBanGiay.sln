@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebBanGiay.Module", "WebBanGiay.Module\WebBanGiay.Module.csproj", "{0CB7AD12-6B92-4AB9-BFDA-75AA1D9C186D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebBanGiay.Blazor.Server", "WebBanGiay.Blazor.Server\WebBanGiay.Blazor.Server.csproj", "{E4ED1C5B-C6E1-44EE-BB28-AFA0A7EA7FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CB7AD12-6B92-4AB9-BFDA-75AA1D9C186D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB7AD12-6B92-4AB9-BFDA-75AA1D9C186D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB7AD12-6B92-4AB9-BFDA-75AA1D9C186D}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{0CB7AD12-6B92-4AB9-BFDA-75AA1D9C186D}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{0CB7AD12-6B92-4AB9-BFDA-75AA1D9C186D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB7AD12-6B92-4AB9-BFDA-75AA1D9C186D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4ED1C5B-C6E1-44EE-BB28-AFA0A7EA7FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4ED1C5B-C6E1-44EE-BB28-AFA0A7EA7FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4ED1C5B-C6E1-44EE-BB28-AFA0A7EA7FAA}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{E4ED1C5B-C6E1-44EE-BB28-AFA0A7EA7FAA}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{E4ED1C5B-C6E1-44EE-BB28-AFA0A7EA7FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4ED1C5B-C6E1-44EE-BB28-AFA0A7EA7FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75FF4852-E217-4BB3-8148-A7E483F9538A}
+	EndGlobalSection
+EndGlobal

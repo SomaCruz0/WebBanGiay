@@ -1,0 +1,47 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebBanGiay.Blazor.Server
+build_property.RootNamespace = WebBanGiay.Blazor.Server
+build_property.ProjectDir = D:\study\cong nghe phan mem\WebBanGiay\WebBanGiay.Blazor.Server\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\study\cong nghe phan mem\WebBanGiay\WebBanGiay.Blazor.Server
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/study/cong nghe phan mem/WebBanGiay/WebBanGiay.Blazor.Server/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/study/cong nghe phan mem/WebBanGiay/WebBanGiay.Blazor.Server/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/study/cong nghe phan mem/WebBanGiay/WebBanGiay.Blazor.Server/Pages/_Customer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0N1c3RvbWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/study/cong nghe phan mem/WebBanGiay/WebBanGiay.Blazor.Server/Pages/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/study/cong nghe phan mem/WebBanGiay/WebBanGiay.Blazor.Server/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

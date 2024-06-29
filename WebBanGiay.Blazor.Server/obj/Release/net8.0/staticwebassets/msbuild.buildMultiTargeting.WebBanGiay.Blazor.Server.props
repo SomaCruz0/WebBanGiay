@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebBanGiay.Blazor.Server.props" />
+</Project>
